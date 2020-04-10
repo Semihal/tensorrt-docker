@@ -1,0 +1,1 @@
+Dockerfile is implemented to work with version TensorRT v.7.0.0.11 and CUDA 10.2 (Ubuntu 1804). To get started, you need to download the *.deb package from here: https://developer.nvidia.com/nvidia-tensorrt-7x-download (registration required) then move it to docker folder.
